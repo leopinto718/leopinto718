@@ -16,7 +16,7 @@ I build reproducible pipelines in R and Python.
   area is already under anthropic use.
 - **automated_range_metrics_freshwater_fish** — automated pipeline for IUCN
   range metrics (EOO/AOO) based on hydrographic sub-basins, supporting a
-  published regional conservation assessment (*Neotropical Ichthyology*, 2025).
+  published regional conservation assessment (https://doi.org/10.1590/1982-0224-2024-0084).
 - **valoracao_manguezais_municipios_brasileiros** — economic valuation of
   carbon stored by mangroves across Brazilian municipalities.
 
