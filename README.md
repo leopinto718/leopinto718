@@ -23,4 +23,6 @@ I build reproducible pipelines in R and Python.
 **Methods** — species distribution modelling, ecosystem modelling (Ecopath with
 Ecosim), multivariate and functional ecology, spatial analysis and GIS.
 
-📄 [Lattes](http://lattes.cnpq.br/5850104797441922) · ✉️ leopinto.ca@gmail.com
+📄 [Lattes](http://lattes.cnpq.br/5850104797441922) · 
+🆔 [ORCID](https://orcid.org/0000-0001-8798-3844) · 
+✉️ leopinto.ca@gmail.com
