@@ -1,7 +1,6 @@
 ## Leonardo Mesquita Pinto
 
-PhD in Tropical Marine Sciences (UFC), currently taking an MBA in Data Science
-(UNIFOR) and a degree in Systems Analysis and Development (UniFanor).
+PhD in Tropical Marine Sciences (UFC), currently taking a degree in Systems Analysis and Development (UniFanor).
 
 I work at the interface of quantitative ecology and data science: modelling
 human pressures on biodiversity and ecosystem services, combining land-use data,
